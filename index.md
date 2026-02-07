@@ -3,9 +3,9 @@ layout: home
 title: Home
 ---
 
-Hi, I’m **Nikhilesh**.
+Hi, I’m **Nikhilesh Jannu**.
 
-I build software and write about software development.
+I build and experiment under **OpenNJ**, focusing on software, AI, and learning in public.
 
 - Read: [Writing](/writing/)
 - See: [Projects](/projects/)
