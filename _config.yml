@@ -1,0 +1,13 @@
+title: OpenNJ
+description: "Personal site — projects, writing, and notes"
+url: "https://opennj.github.io"
+
+theme: minima
+
+header_pages:
+  - about.md
+  - projects.md
+  - writing.md
+
+plugins:
+  - jekyll-feed
