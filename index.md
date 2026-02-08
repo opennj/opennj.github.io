@@ -12,6 +12,8 @@ I build software and experiment under **OpenNJ**, exploring how AI changes the w
 - Learning and writing in public
 - Exploring applied AI and developer workflows
 
+**Currently:** experimenting with AI-assisted development workflows and documenting what works.
+
 → Read my [Writing](/writing/)  
 → See my [Projects](/projects/)  
 → Learn more [About me](/about/)
