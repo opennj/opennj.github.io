@@ -3,10 +3,15 @@ layout: home
 title: Home
 ---
 
-Hi, I’m **Nikhilesh Jannu**.
+Hi, I’m **Nikhilesh Jannu** 👋
 
-I build and experiment under **OpenNJ**, focusing on software, AI, and learning in public.
+I build software and experiment under **OpenNJ**, exploring how AI changes the way we design, build, and ship products.
 
-- Read: [Writing](/writing/)
-- See: [Projects](/projects/)
-- About me: [About](/about/)
+### What I focus on
+- Building practical software and tools
+- Learning and writing in public
+- Exploring applied AI and developer workflows
+
+→ Read my [Writing](/writing/)  
+→ See my [Projects](/projects/)  
+→ Learn more [About me](/about/)
